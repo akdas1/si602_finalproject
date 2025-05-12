@@ -2,6 +2,7 @@
 
 ## Course
 SI 568 Mathematical Foundations for Applied Data Science
+
 University of Michigan, School of Information
 
 ## Author
