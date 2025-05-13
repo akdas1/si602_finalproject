@@ -13,7 +13,7 @@ Amit Das
 ## Project Details
 The academic project primarily focuses on posterior probability, expectations, and distributions to analyze a video game scenario. The project goal was to showcase what I learned in a mock-lesson setting. More details are uploaded within the Jupyter notebook.
 
-## Acknowledgements:
+## Acknowledgements
 
 This project used **NumPy** and **Matplotlib** to plot a bonus sample solution displaying the Probability and Cumulative Distribution Functions (PDF and CDFs) for a given genre's rating probability.
 
