@@ -19,4 +19,4 @@ This project used **NumPy** and **Matplotlib** to plot a bonus sample solution d
 
 The [NumPy](https://numpy.org/doc/2.2/) library was used for storing genre ratings and probabilities within arrays.
 
-The [Matplotlib](https://matplotlib.org/stable/index.html) library was used to plot probability distribution functions from the arrays.
+The [Matplotlib](https://matplotlib.org/stable/index.html) library for plotting the probability distribution functions from arrays.
